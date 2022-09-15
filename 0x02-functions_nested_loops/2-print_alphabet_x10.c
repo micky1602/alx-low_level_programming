@@ -3,12 +3,10 @@
  * print_alphabet_x10 - prints alphabet 10 times
  *
  * Return: always 0;
- *
  */
 void print_alphabet_x10(void)
 {
-	char i;
-	char c;
+	char c, i;
 
 	for (c = 0; c <= 9; c++)
 	{
