@@ -1,10 +1,8 @@
 #include "main.h"
 
 /**
- * main - Entry point
- *
+ * main - print putchar
  * Return: Always returns 0
- *
  */
 int main(void)
 {
