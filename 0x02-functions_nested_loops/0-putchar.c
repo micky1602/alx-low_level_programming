@@ -1,23 +1,22 @@
-#ifndef MAIN.H
-#define MAIN.H
+#include "holberton.h"
 
 /**
- *main - header file for protoypes
- *void protoypes (void)
- *int protoypes (int)
-*/
-
-void print_numbers(void);
-old print_most_numbers(void);
-void more_numbers(void);
-void print_line(int n);
-void print_diagonal(int n);
-void print_square(int size);
-void print_triangle(int size);
-void print_number(int n);
-int _putchar(char);
-int _isupper(int);
-int _isdigit(int);
-int mul(int, int);
-
-#endif /* MAIN.H */
+ * main - Entry point
+ *
+ * Return: Always returns 0
+ *
+ */
+int main(void)
+{
+	_putchar('H');
+	_putchar('o');
+	_putchar('l');
+	_putchar('b');
+	_putchar('e');
+	_putchar('r');
+	_putchar('t');
+	_putchar('o');
+	_putchar('n');
+	_putchar('\n');
+	return (0);
+}
