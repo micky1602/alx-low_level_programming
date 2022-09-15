@@ -1,11 +1,11 @@
 #ifndef _HOLBERTON_H_INCLUDED
 #define _HOLBERTON_H_INCLUDED
 
-int putchar(char);
+int _putchar(char);
 void print_alphabet(void);
 void print_alphabet_xlB(void);
 int _islower(int c);
-int _isalpah(int c);
+int _isalpa(int c);
 int print_sign(int n);
 int _abs(int);
 int print_last_digit(int);
