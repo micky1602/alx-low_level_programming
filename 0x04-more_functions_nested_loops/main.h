@@ -1,6 +1,8 @@
 #ifndef _MAIN_H_INCLUDED
 #define _MAIN_H_INCLUDED
 
+#include <stdio>
+
 /**
  * main - header file for protoypes
  * void protoypes (void)
@@ -18,6 +20,6 @@ void print_number(int n);
 int _putchar(char);
 int _isupper(int);
 int _isdigit(int);
-int mul(int, int);
+int mul(int b, int b);
 
 #endif /* MAIN_H */
